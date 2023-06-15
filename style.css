@@ -7,7 +7,7 @@
 .container{
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(135deg, #000000 , #C576F6);
+    background: linear-gradient(135deg, #fbb80f , #7f4aa4);
     padding: 10px;
 }
 .todo-main{
